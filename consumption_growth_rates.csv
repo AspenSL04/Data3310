@@ -1,0 +1,50 @@
+Entity,14-24_Consumption_Growth_Rate,Source
+Total North America,0.00,oil
+Total North America,0.02,gas
+Total North America,-0.08,Coal
+Total North America,0.00,nuclear
+Total North America,-0.01,hydro
+Total North America,0.25,solar
+Total North America,0.10,wind
+Total S. & Cent. America,-0.01,oil
+Total S. & Cent. America,0.00,gas
+Total S. & Cent. America,-0.03,Coal
+Total S. & Cent. America,0.02,nuclear
+Total S. & Cent. America,0.01,hydro
+Total S. & Cent. America,0.58,solar
+Total S. & Cent. America,0.23,wind
+Total Europe,0.00,oil
+Total Europe,-0.01,gas
+Total Europe,-0.06,Coal
+Total Europe,-0.03,nuclear
+Total Europe,0.01,hydro
+Total Europe,0.13,solar
+Total Europe,0.09,wind
+Total CIS,0.01,oil
+Total CIS,0.01,gas
+Total CIS,0.00,Coal
+Total CIS,0.02,nuclear
+Total CIS,0.02,hydro
+Total CIS,0.51,solar
+Total CIS,0.56,wind
+Total Middle East,0.01,oil
+Total Middle East,0.03,gas
+Total Middle East,-0.02,Coal
+Total Middle East,0.28,nuclear
+Total Middle East,0.01,hydro
+Total Middle East,0.39,solar
+Total Middle East,0.35,wind
+Total Africa,0.01,oil
+Total Africa,0.04,gas
+Total Africa,0.00,Coal
+Total Africa,-0.06,nuclear
+Total Africa,0.03,hydro
+Total Africa,0.28,solar
+Total Africa,0.19,wind
+Total Asia Pacific,0.02,oil
+Total Asia Pacific,0.03,gas
+Total Asia Pacific,0.02,Coal
+Total Asia Pacific,0.08,nuclear
+Total Asia Pacific,0.03,hydro
+Total Asia Pacific,0.34,solar
+Total Asia Pacific,0.18,wind
