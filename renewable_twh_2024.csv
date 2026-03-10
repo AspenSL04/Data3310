@@ -1,106 +1,106 @@
-Entity,2024_Renewable_TWh
-Canada,409.30
-Mexico,75.00
-US,1068.70
-Total North America,1553.00
-,
-Argentina,52.40
-Brazil,651.30
-Chile,65.30
-Colombia,59.80
-Ecuador,23.40
-Peru,37.90
-Trinidad & Tobago,^
-Venezuela,72.90
-Central America,45.80
-Other Caribbean,8.60
-Other South America,65.10
-Total S. & Cent. America,1082.50
-,
-Austria,68.10
-Belgium,25.50
-Bulgaria,11.40
-Croatia,11.30
-Cyprus,1.30
-Czech Republic,12.50
-Denmark,30.30
-Estonia,3.60
-Finland,46.50
-France,150.80
-Germany,284.00
-Greece,26.10
-Hungary,11.60
-Iceland,19.60
-Ireland,14.30
-Italy,133.30
-Latvia,4.40
-Lithuania,6.10
-Luxembourg,1.60
-Netherlands,62.30
-North Macedonia,1.90
-Norway,154.80
-Poland,50.90
-Portugal,40.20
-Romania,25.20
-Slovakia,7.10
-Slovenia,7.40
-Spain,159.40
-Sweden,119.60
-Switzerland,52.60
-Turkey,162.20
-Ukraine,19.80
-United Kingdom,144.70
-Other Europe,41.30
-Total Europe,1911.70
-,
-Azerbaijan,3.60
-Belarus,1.10
-Kazakhstan,18.00
-Russian Federation,218.90
-Turkmenistan,^
-USSR,-
-Uzbekistan,13.00
-Other CIS,37.40
-Total CIS,292.10
-,
-Iran,21.10
-Iraq,1.80
-Israel,10.70
-Kuwait,0.20
-Oman,2.00
-Qatar,2.10
-Saudi Arabia,9.80
-United Arab Emirates,15.60
-Other Middle East,11.10
-Total Middle East,74.40
-,
-Algeria,0.80
-Egypt,26.60
-Morocco,9.80
-South Africa,19.30
-Eastern Africa,97.00
-Middle Africa,39.80
-Western Africa,33.20
-Other Northern Africa,1.00
-Other Southern Africa,3.50
-Total Africa,230.80
-,
-Australia,98.80
-Bangladesh,2.40
-China,3398.80
-China Hong Kong SAR,0.50
-India,397.10
-Indonesia,72.30
-Japan,233.10
-Malaysia,39.40
-New Zealand,38.20
-Pakistan,44.90
-Philippines,28.30
-Singapore,2.10
-South Korea,60.70
-Sri Lanka,10.40
-Taiwan,31.50
-Thailand,29.60
-Vietnam,128.40
-Other Asia Pacific,107.20
-Total Asia Pacific,4723.70
+Entity,2024_Renewable_TWh,Region
+Canada,409.30,North America
+Mexico,75.00,North America
+US,1068.70,North America
+Total North America,1553.00,North America
+,,
+Argentina,52.40,S & Central America
+Brazil,651.30,S & Central America
+Chile,65.30,S & Central America
+Colombia,59.80,S & Central America
+Ecuador,23.40,S & Central America
+Peru,37.90,S & Central America
+Trinidad & Tobago,,S & Central America
+Venezuela,72.90,S & Central America
+Central America,45.80,S & Central America
+Other Caribbean,8.60,S & Central America
+Other South America,65.10,S & Central America
+Total S. & Cent. America,1082.50,S & Central America
+,,
+Austria,68.10,Europe
+Belgium,25.50,Europe
+Bulgaria,11.40,Europe
+Croatia,11.30,Europe
+Cyprus,1.30,Europe
+Czech Republic,12.50,Europe
+Denmark,30.30,Europe
+Estonia,3.60,Europe
+Finland,46.50,Europe
+France,150.80,Europe
+Germany,284.00,Europe
+Greece,26.10,Europe
+Hungary,11.60,Europe
+Iceland,19.60,Europe
+Ireland,14.30,Europe
+Italy,133.30,Europe
+Latvia,4.40,Europe
+Lithuania,6.10,Europe
+Luxembourg,1.60,Europe
+Netherlands,62.30,Europe
+North Macedonia,1.90,Europe
+Norway,154.80,Europe
+Poland,50.90,Europe
+Portugal,40.20,Europe
+Romania,25.20,Europe
+Slovakia,7.10,Europe
+Slovenia,7.40,Europe
+Spain,159.40,Europe
+Sweden,119.60,Europe
+Switzerland,52.60,Europe
+Turkey,162.20,Europe
+Ukraine,19.80,Europe
+United Kingdom,144.70,Europe
+Other Europe,41.30,Europe
+Total Europe,1911.70,Europe
+,,
+Azerbaijan,3.60,CIS
+Belarus,1.10,CIS
+Kazakhstan,18.00,CIS
+Russian Federation,218.90,CIS
+Turkmenistan,,CIS
+USSR,,CIS
+Uzbekistan,13.00,CIS
+Other CIS,37.40,CIS
+Total CIS,292.10,CIS
+,,
+Iran,21.10,Middle East
+Iraq,1.80,Middle East
+Israel,10.70,Middle East
+Kuwait,0.20,Middle East
+Oman,2.00,Middle East
+Qatar,2.10,Middle East
+Saudi Arabia,9.80,Middle East
+United Arab Emirates,15.60,Middle East
+Other Middle East,11.10,Middle East
+Total Middle East,74.40,Middle East
+,,
+Algeria,0.80,Africa
+Egypt,26.60,Africa
+Morocco,9.80,Africa
+South Africa,19.30,Africa
+Eastern Africa,97.00,Africa
+Middle Africa,39.80,Africa
+Western Africa,33.20,Africa
+Other Northern Africa,1.00,Africa
+Other Southern Africa,3.50,Africa
+Total Africa,230.80,Africa
+,,
+Australia,98.80,Asia Pacific
+Bangladesh,2.40,Asia Pacific
+China,3398.80,Asia Pacific
+China Hong Kong SAR,0.50,Asia Pacific
+India,397.10,Asia Pacific
+Indonesia,72.30,Asia Pacific
+Japan,233.10,Asia Pacific
+Malaysia,39.40,Asia Pacific
+New Zealand,38.20,Asia Pacific
+Pakistan,44.90,Asia Pacific
+Philippines,28.30,Asia Pacific
+Singapore,2.10,Asia Pacific
+South Korea,60.70,Asia Pacific
+Sri Lanka,10.40,Asia Pacific
+Taiwan,31.50,Asia Pacific
+Thailand,29.60,Asia Pacific
+Vietnam,128.40,Asia Pacific
+Other Asia Pacific,107.20,Asia Pacific
+Total Asia Pacific,4723.70,Asia Pacific
